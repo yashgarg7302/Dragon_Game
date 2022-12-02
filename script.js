@@ -1,8 +1,8 @@
 score = 0;
 cross = true;
 
-audio = new Audio('gameover.mp3');
-audiogo = new Audio('gameover.mp3');
+audio = new Audio('cottagecore-17463.mp3');
+audiogo = new Audio('gameover.mp3')
 setTimeout(() => {
     audio.play()
 }, 1000);
